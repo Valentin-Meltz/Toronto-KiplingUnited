@@ -19,15 +19,6 @@ body{
     color: #808080;
 }
 
-.btn:hover{
-    background-color: #fc2060;
-    color: #ffffff;
-}
-.btn:active{
-    background-color: #fc2060;
-    color: #808080;
-}
-
 .info{
     background-color: #fc2060;
 }
