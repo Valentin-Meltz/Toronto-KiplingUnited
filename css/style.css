@@ -1,0 +1,28 @@
+html {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+body{
+    padding-top: 55px;
+}
+
+.nav-link{
+    font-size: medium;
+    color: #000000;
+}
+.nav-link:hover{
+    color: #ffffff;
+}
+.nav-link:active{
+    color: #808080;
+}
+
+.info{
+    background-color: #fc2060;
+}
+
+button{
+    bottom: #fc2060;
+}
