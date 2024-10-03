@@ -2,6 +2,7 @@ html {
     margin: 0;
     padding: 0;
     display: block;
+    background-color: #000000;
 }
 
 body{
@@ -10,7 +11,6 @@ body{
 
 .nav-link{
     font-size: medium;
-    color: #000000;
 }
 .nav-link:hover{
     color: #ffffff;
@@ -19,10 +19,29 @@ body{
     color: #808080;
 }
 
+.btn:hover{
+    background-color: #fc2060;
+    color: #ffffff;
+}
+.btn:active{
+    background-color: #fc2060;
+    color: #808080;
+}
+
 .info{
     background-color: #fc2060;
 }
 
-button{
-    bottom: #fc2060;
+.col-img{
+    max-width: 650px;
+    border-radius: 25px;
+}
+
+footer{
+    font-size: 100%;
+    background-color: #deb887;
+    text-align: center;
+    padding: 1px 0 1px 0;
+    background-color: #000000;
+    color: #ffffffc2;
 }
